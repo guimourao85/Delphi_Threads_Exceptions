@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/13 20:42:35.000.192,=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\TrataException.pas</Transaction>
+    <Transaction>2021/12/14 11:06:02.000.940,C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\TrataException.pas=</Transaction>
+    <Transaction>2021/12/14 11:51:05.000.936,=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 11:51:30.000.465,C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Unit1.pas=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\ClasseExcessoes.pas</Transaction>
+    <Transaction>2021/12/14 13:01:17.000.621,=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 13:01:32.000.849,C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Threads.dfm=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 13:01:32.000.849,C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Threads.pas=C:\Users\guilh\Desktop\SoftPlan\appmanutencao-master\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
